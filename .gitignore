@@ -1,0 +1,7 @@
+**/*.opt
+!**/pre.opt
+!**/PREW2CodeCompilerVersion.opt
+**/*.exe
+**/*.bak
+**/*.bak.*
+**/*.log
